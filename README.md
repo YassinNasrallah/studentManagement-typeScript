@@ -65,23 +65,4 @@ Omaima — 19
 Failed students:
 
 Ussama — 10
-🛠️ Technologies
-TypeScript
-JavaScript
-Node.js
-npm
-📂 Project Structure
-typescripttutorial/
-├── index.ts
-├── index.js
-├── tsconfig.json
-├── package.json
-├── package-lock.json
-└── node_modules/
-▶️ Run the Project
-npm install
-npx tsc
-node index.js
-🎯 Goal
 
-The goal of this project was to practice TypeScript types, nested objects, optional properties, typed arrays, functions, loops, conditions, and basic data processing.
